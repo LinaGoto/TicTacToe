@@ -94,7 +94,7 @@ int main(){
     }
     
     if (play[0] == 'n'){
-        stillplaying == false;
+        stillplaying = false;
     }
     }
   }
